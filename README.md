@@ -9,7 +9,7 @@ https://github.com/wongyoJung/caiman_custom
 
 
 ### As a software Engineer ###
-https://github.com/zzackzzack/chatter
+https://github.com/zzackzzack/ducklingpond
 - Web service for team projects and QnA sessions in online classes
 
 https://github.com/wongyoJung/kaimeet
