@@ -1,5 +1,16 @@
-### Neuroscientist | Hobby: Software Engineer
-  
+
+Hi, I'm Wongyo Jung 👋
+
+
+### As a neuroscientist ###
+https://github.com/wongyoJung/caiman_custom
+
+
+### As a software Engineer ###
+https://github.com/zzackzzack/chatter
+
+https://github.com/wongyoJung/kaimeet
+
 
 <!--
 **wongyoJung/wongyoJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
