@@ -4,12 +4,16 @@ Hi, I'm Wongyo Jung 👋
 
 ### As a neuroscientist ###
 https://github.com/wongyoJung/caiman_custom
+ - customization of CaImAn for two photon anlaysis
+
 
 
 ### As a software Engineer ###
 https://github.com/zzackzzack/chatter
+- Web service for team projects and QnA sessions in online classes
 
 https://github.com/wongyoJung/kaimeet
+- Web service for chatting and social meeting for freshmen who cannot meet new friends in university because of COVID 19 online lecture
 
 
 <!--
